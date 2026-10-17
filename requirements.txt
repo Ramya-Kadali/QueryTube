@@ -1,0 +1,5 @@
+dotenv 
+requests
+pandas
+youtube-transcript-api
+openpyxl
